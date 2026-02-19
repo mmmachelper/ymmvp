@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "update": {
+    "enabled": true,
+    "force": false,
+    "min_version_code": 1,
+    "latest_version_code": 5,
+    "latest_version_name": "1.0.5",
+    "skip_allowed": true,
+    "store_url": "https://play.google.com/store/apps/details?id=com.example.vpnymm",
+    "title": "Update Available",
+    "message": "New performance and security improvements are available."
+  },
+  "maintenance": {
+    "enabled": false,
+    "message": "Server maintenance is in progress. Please check back soon.",
+    "wait_est_minutes": 45
+  },
+  "ads": {
+    "global_on": true,
+    "splash": {
+      "enabled": true,
+      "title": "Sponsored",
+      "media_url": "https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif",
+      "click_url": "https://example.com/splash",
+      "duration_seconds": 8,
+      "skip_after_seconds": 4
+    },
+    "banner": {
+      "enabled": true,
+      "title": "Visit Sponsor",
+      "media_url": "https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif",
+      "click_url": "https://example.com/banner"
+    },
+    "interstitial": {
+      "enabled": true,
+      "title": "Special Offer",
+      "media_url": "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+      "click_url": "https://example.com/interstitial"
+    }
+  }
+}
