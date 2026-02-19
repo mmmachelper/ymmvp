@@ -4,7 +4,7 @@
     {
       "id": "sg-01",
       "name": "Singapore Node 1",
-      "xx_key": "xx://REPLACE_WITH_YOUR_ENCRYPTED_KEY",
+      "xx_key": "xx://AWKyN0qWKefdLjqBXg.EV1X_3fH4pFFLCLVDxUAmMt4lRoSCYLKQIfl1-4BDIelZtaj4C1ALlf3pC6UQ3yxGKaz9jtbkNNnRFJfPXv3kVdelghOAahxD_3o7CM1jZ0JBvUJjSYjUqZ7m0x04dM.ur_lLc0pOai1XUZ_jAWH4_brN-LsWRfe_SWcU-nUVc4",
       "fake_ip": "172.67.193.15",
       "fake_port": 443,
       "enabled": true
@@ -12,7 +12,7 @@
     {
       "id": "jp-01",
       "name": "Tokyo Node 1",
-      "xx_key": "xx://REPLACE_WITH_YOUR_ENCRYPTED_KEY",
+      "xx_key": "xx://AbXY_RPaKtQrNvtnlg.uVLpL2DvqAwdXmoGNq7eop0UbOynBMNamNH_HF1Y8hOsNqaf-Xvjt-iGZLxc2qAHLc4A-RDlulyFMOY108MWo0SsXZ-lAl0N1vmMrUqLv80Hz_I4vyCmG5ZVXSptbw.bZlIoJREbk_pAs9mW0YDJjxSAAdG66-zuqmKO9WI6S0",
       "fake_ip": "104.21.42.120",
       "fake_port": 8443,
       "enabled": false
