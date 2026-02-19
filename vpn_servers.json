@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "servers": [
+    {
+      "id": "sg-01",
+      "name": "Singapore Node 1",
+      "xx_key": "xx://REPLACE_WITH_YOUR_ENCRYPTED_KEY",
+      "fake_ip": "172.67.193.15",
+      "fake_port": 443,
+      "enabled": true
+    },
+    {
+      "id": "jp-01",
+      "name": "Tokyo Node 1",
+      "xx_key": "xx://REPLACE_WITH_YOUR_ENCRYPTED_KEY",
+      "fake_ip": "104.21.42.120",
+      "fake_port": 8443,
+      "enabled": false
+    }
+  ]
+}
